@@ -37,5 +37,4 @@ b = int(input("Введите второе число "))
 #     else:
 #         return sum(a - 1, b + 1)
 
-
 # print(sum(a, b))
